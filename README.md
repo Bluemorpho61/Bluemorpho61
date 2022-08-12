@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Firdaus Al Kindi (also known as Bluemorpho61)
 - 👀 I’m interested in Android & Desktop app development
 - 🌱 I’m currently learning Java & Kotlin
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on Instagram: @alkin_di31 and E-mail me at: vanda10.dava@gmail.com
 
 <!---
