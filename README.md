@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android & Desktop app development
 - 🌱 I’m currently learning Java & Kotlin
 <!--- 💞️ I’m looking to collaborate on ... --->
-- 📫 You can reach me on Instagram: @alkin_di31 and E-mail me at: vanda10.dava@gmail.com
+- 📫 You can reach me on Instagram: @alkin_di31 or E-mail me at: vanda10.dava@gmail.com
 
 <!---
 Bluemorpho61/Bluemorpho61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
