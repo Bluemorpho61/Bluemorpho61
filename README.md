@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Firdaus Al Kindi (also known as Bluemorpho61)
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning PHP with Laravel Framework
+- 🌱 I’m currently learning native Android app development using Kotlin
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on Instagram: @alkin_di31 or E-mail me at: firdausalkindi@gmail.com
 
